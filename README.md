@@ -12,3 +12,7 @@ Step2：在具体项目.build目录下添加
 ```gradle
 compile 'com.github.yuyuyu123:ZRouter:1.0.3'
 ```
+
+# Use  
+具体使用请参考内部App。
+
